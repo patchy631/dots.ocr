@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/rednote-hilab/dots.ocr/master/assets/logo.png" width="250"/>
+    <img src="https://raw.githubusercontent.com/rednote-hilab/dots.ocr/master/assets/logo.png" width="400"/>
 <p>
 
 <h3 align="center">
