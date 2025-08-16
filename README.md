@@ -5,7 +5,7 @@
 <p>
 
 <h3 align="center">
-dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model
+Multilingual Document Layout Parsing in a Single Vision-Language Model
 </h3>
 
 [![Blog](https://img.shields.io/badge/Blog-View_on_GitHub-333.svg?logo=github)](https://github.com/rednote-hilab/dots.ocr/blob/master/assets/blog.md)
